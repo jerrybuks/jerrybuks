@@ -2,10 +2,10 @@
 
 <hr />
 
-<a href="https://www.linkedin.com/in/murilo-marques-b42760115/">
+<a href="https://www.linkedin.com/in/jerry-chibuokem/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
-<a href="mailto:murilommms@gmail.com">
+<a href="mailto:profkiti@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
@@ -22,9 +22,9 @@
 <hr />
 
 <div align="center">
-  <a href="https://github.com/MuriloMarquesSantos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jerrybuks&show_icons=true&theme=gradient&count_private=true"/>
+  <a href="https://github.com/jerrybuks">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerrybuks&layout=compact&langs_count=7&theme=gradient"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jerrybuks&show_icons=true&theme=gradient&count_private=true"/>
 </div>
 
 ## ⚡ Technologies I love and use
