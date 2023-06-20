@@ -2,13 +2,6 @@
 
 <hr />
 
-<a href="https://www.linkedin.com/in/jerry-chibuokem/">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
-</a>
-<a href="mailto:profkiti@gmail.com">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-
 ### About Me 🚀
 💻 I’m a **Full-stack developer (front-end heavy)** with a bachelor's degree in Electronic Engineering. </br> </br>
 👨🏼‍💻 I'm also a **technical instructor** and **advisor** who loves providing mentorship. </br></br>
