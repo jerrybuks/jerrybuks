@@ -24,7 +24,7 @@
 <div align="center">
   <a href="https://github.com/jerrybuks">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerrybuks&layout=compact&langs_count=7&theme=gradient"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jerrybuks&show_icons=true&theme=gradient&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jerrybuks&show_icons=true&theme=gradient&count_private=true&hide=contrib&theme=dracula"/>
 </div>
 
 ## ⚡ Technologies I love and use
