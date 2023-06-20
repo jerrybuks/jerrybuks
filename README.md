@@ -4,8 +4,9 @@
 
 ### About Me 🚀
 💻 I’m a **Full-stack developer (front-end heavy)** with a Bachelor's in Electronic Engineering. </br> </br>
-👨🏼‍💻 I love to solve problems & deliver value, while continuously improving myself.</br></br>
-💬 I take great pleasure in understanding user needs and translating them into intuitive interfaces that empower individuals. Through my full-stack expertise, I ensure visually appealing, robust, scalable, and efficient product delivery. </br></br>
+🌱 I love to solve problems & deliver value, while continuously improving myself.</br></br>
+💬 I take great pleasure in understanding user needs and translating them into intuitive interfaces that empower individuals.</br></br>
+👨‍💻 Through my full-stack expertise, I ensure visually appealing, robust, scalable, and efficient product delivery. </br></br>
    
  <b><i>I strongly believe that the intersection of technology and software development has the capacity to greatly impact and improve the quality of people's lives. 
     
@@ -17,6 +18,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerrybuks&layout=compact&langs_count=7&theme=dracula"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jerrybuks&show_icons=true&&count_private=true&hide=contribs&theme=dracula"/>
 </div>
+
+<b>PS: Over the past two years, my GitHub activity may appear minimal as I primarily utilized an internal <a href="https://github.com/jerrychibuokem-coursera">GitHub account</a> associated with the organization, where the contribution graph is only visible to members within the organization. Additionally, my focus during the first half of this year was dedicated to developing my startup product, <a href="https://www.getgrevy.com/">Grevy</a>. Unfortunately, we have yet to find a solid product-market fit. As a result, I am currently actively seeking new job opportunities. 😎</b>
 
 ## ⚡ Main Technologies I Hack With
   
