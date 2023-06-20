@@ -4,10 +4,10 @@
 
 ### About Me 🚀
 💻 I’m a **Full-stack developer (front-end heavy)** with a Bachelor's in Electronic Engineering. </br> </br>
-👨🏼‍💻 I love to solve problems & deliver value, while continuously improving myself </br></br>
-💬 I find great satisfaction in understanding user needs and translating them into intuitive interfaces that empower individuals and streamline their tasks. By leveraging my full-stack experience, I ensure that the products I develop are not only visually appealing but also robust, scalable, and efficient.  </br></br>
+👨🏼‍💻 I love to solve problems & deliver value, while continuously improving myself.</br></br>
+💬 I take great pleasure in understanding user needs and translating them into intuitive interfaces that empower individuals. Through my full-stack expertise, I ensure visually appealing, robust, scalable, and efficient product delivery. </br></br>
    
- <b><i>I am firmly convinced that the intersection of technology and software development has the capacity to greatly impact and improve the quality of people's lives. 
+ <b><i>I strongly believe that the intersection of technology and software development has the capacity to greatly impact and improve the quality of people's lives. 
     
 <br/>
 <hr />
