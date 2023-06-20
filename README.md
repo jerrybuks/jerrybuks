@@ -3,11 +3,11 @@
 <hr />
 
 ### About Me 🚀
-💻 I’m a **Full-stack developer (front-end heavy)** with a bachelor's degree in Electronic Engineering. </br> </br>
-👨🏼‍💻 I'm also a **technical instructor** and **advisor** who loves providing mentorship. </br></br>
-💬 Feel more than welcome to contact me if you need any help or want to discuss any software development topic! </br></br>
+💻 I’m a **Full-stack developer (front-end heavy)** with a Bachelor's in Electronic Engineering. </br> </br>
+👨🏼‍💻 I love to solve problems & deliver value, while continuously improving myself </br></br>
+💬 I find great satisfaction in understanding user needs and translating them into intuitive interfaces that empower individuals and streamline their tasks. By leveraging my full-stack experience, I ensure that the products I develop are not only visually appealing but also robust, scalable, and efficient.  </br></br>
    
- <b><i>I truly believe that technology and software development has the power to change people's lives for the better. 
+ <b><i>I am firmly convinced that the intersection of technology and software development has the capacity to greatly impact and improve the quality of people's lives. 
     
 <br/>
 <hr />
